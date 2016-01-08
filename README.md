@@ -14,7 +14,7 @@ Simply cloning this repository and running `make` is all that is required.
 Doing so will install pip and ansible as they are both required
 to provision.
 
-The `mac-osx.yml` playbook is then ran to provision everything.
+The `mac-osx.yml` playbook is then run to provision everything.
 
 ### Docker
 
